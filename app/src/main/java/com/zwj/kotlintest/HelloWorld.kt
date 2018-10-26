@@ -1,8 +1,5 @@
 package com.zwj.kotlintest
 
-/**
- * Created by zhu on 2017/6/12.
- */
 val adrBoolear:Boolean=true
 
 val anInt:Int=8
